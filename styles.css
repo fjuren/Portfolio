@@ -1,0 +1,79 @@
+/* Resources:
+https://colorhunt.co/palette/0a043c03506fbbbbbbffe3d8 */
+
+/* Body */
+
+body {
+  text-align: center;
+}
+
+/* Navbar */
+.navbar {
+  font-family: 'Montserrat', sans-serif;
+  border-bottom: .8px solid #BBBBBB;
+}
+
+
+/* Title */
+/* Top White Section */
+#title {
+  padding: 40px 5% 0;
+}
+
+.profile-img {
+    height: 200px;
+    width: 200px;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+
+/* About */
+/* middle grey section */
+#about {
+  padding: 30px 30% 0;
+}
+
+/* Contact */
+/* bottom white section */
+#contact {
+  padding: 20px 5% 0;
+}
+
+/* Footer */
+#footer {
+    padding: 30px 5% 0;
+}
+
+
+
+
+
+
+/* Unique Projects page elements */
+
+#project-title {
+  padding: 40px 5% 0;
+}
+
+#project-1 {
+  padding: 30px 20% 0;
+}
+
+#project-2 {
+  padding: 80px 20% 0;
+}
+
+.project-img {
+  width: 260px;
+  height: 200px;
+  position: relative;
+}
+
+.project-button {
+  width: 250px;
+  display:inline;
+}
