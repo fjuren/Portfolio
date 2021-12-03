@@ -1,3 +1,3 @@
 # Portfolio
 
-Welcome to my first website and portfolio page
+Welcome to my portfolio page
