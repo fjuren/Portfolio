@@ -32,9 +32,17 @@ h1 {
 
 
 /* About */
+
 /* middle grey section */
 #about {
   padding: 30px 30% 0;
+}
+
+@media only screen and (max-width: 950px) {
+  #about {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
 }
 
 /* Contact */
@@ -59,9 +67,32 @@ h1 {
   padding: 40px 5% 0;
 }
 
+.sub-title {
+  margin-bottom: 18px;
+}
+
 #project-1 {
   padding: 30px 20% 0;
 }
+
+.project-text {
+  text-align: center;
+}
+
+
+/* .project-text {
+  padding: 30px 30% 0;
+} */
+
+@media only screen and (max-width: 809px) {
+  .project-text {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+}
+
+
+
 
 #project-2 {
   padding: 80px 20% 0;
@@ -71,6 +102,10 @@ h1 {
   width: 260px;
   height: 200px;
   position: relative;
+}
+
+.button-row {
+  padding-top: 20px;
 }
 
 .project-button {
